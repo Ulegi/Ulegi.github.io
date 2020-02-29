@@ -1,0 +1,13 @@
+current directory: /mnt/c/Users/sm-dk/gitblog/Ulegi.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
+/usr/bin/ruby2.5 -r ./siteconf20200229-549-g8msfh.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/sm-dk/gitblog/Ulegi.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+sh: 1: make: not found
+
+current directory: /mnt/c/Users/sm-dk/gitblog/Ulegi.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR="
+sh: 1: make: not found
+
+make failed, exit code 127
