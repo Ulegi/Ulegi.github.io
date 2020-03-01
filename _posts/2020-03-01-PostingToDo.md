@@ -20,6 +20,7 @@ image:
     별첨(할지말지 모름) -> github 꾸미는 방법<br><br>
 * home에 side 에 링크들 하향식으로 바꾸기<br><br>
 * Archive<br><br>
-* Resume
-
+* Resume<br><br>
+* 필요한 VScode 플러그인
+<br>
 posted : 2020 03 01
