@@ -48,19 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-    - label: "Github"
-      icon: "fab fa-github"
-      url: "https://github.com/ulegi"
+  github: ulegi #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://www.instagram.com/victory_sm"
+  instagram: victory_sm #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
