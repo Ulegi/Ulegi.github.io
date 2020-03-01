@@ -9,10 +9,17 @@ image:
   creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
 ---
 ## 해야할 것
-* 카테고리 정리
+* 카테고리 정리 <br><br>
 * Git blog 만들기 포스팅
-* home에 side 에 링크들 하향식으로 바꾸기
-* Archive
+    1. 윈도우에서 리눅스 쓰기
+    2. git repo 만들기
+    3. theme 따오기
+    4. jekyll 적용하기
+    5. github.io 적용하기
+    6. 이슈사항
+    별첨(할지말지 모름) -> github 꾸미는 방법<br><br>
+* home에 side 에 링크들 하향식으로 바꾸기<br><br>
+* Archive<br><br>
 * Resume
 
 posted : 2020 03 01
