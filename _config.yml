@@ -50,8 +50,8 @@ owner:
   bing-verify:
   github: #username
     - label: "Github"
-        icon: "fab fa-github"
-        url: "https://github.com/ulegi"
+      icon: "fab fa-github"
+      url: "https://github.com/ulegi"
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
@@ -59,8 +59,8 @@ owner:
   xing: #username
   instagram: #username
     - label: "Instagram"
-        icon: "fab fa-instagram"
-        url: "https://www.instagram.com/victory_sm"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/victory_sm"
   lastfm: #username
   tumblr: #username
   pinterest: #username
